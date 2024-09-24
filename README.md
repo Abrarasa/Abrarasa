@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Statistics and Machine Learning**
 
-- 📫 How to reach me **abrarasa458@gmail.com**
+- 📫 How to reach me **abrarasa467@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/Abrarasa/Resume/blob/main/SYED%20ABRAR%20RESUME.pdf](https://github.com/Abrarasa/Resume/blob/main/SYED%20ABRAR%20RESUME.pdf)
 
